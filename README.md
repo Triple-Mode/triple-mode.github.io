@@ -1,1 +1,0 @@
-# triple-mode.github.io
