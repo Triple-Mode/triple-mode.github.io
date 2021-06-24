@@ -26,11 +26,6 @@
   </url>
   
   <url>
-    <loc>/write-up/pwnable.kr/2021/05/05/2018-07-29-ctf-isitdtu2018-iz.html/</loc>
-    <lastmod>2021-05-05T12:59:51+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/write-up/pwnable.kr/2021/05/05/2018-07-18-ctf-meepwn2018-omegasector.html/</loc>
     <lastmod>2021-05-05T12:59:51+00:00</lastmod>
   </url>
@@ -118,6 +113,19 @@
   <url>
     <loc>/tags/test2bb/</loc>
     <lastmod>2021-05-05T12:59:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/write-up/pwnable.kr/2019/05/05/2018-07-29-ctf-isitdtu2018-iz.html/</loc>
+    <lastmod>2019-05-05T12:59:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/archive/</loc>
   </url>
   
   <url>

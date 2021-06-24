@@ -12,19 +12,6 @@
     
     
     <item>
-      <title>[ISITDTU 2018] IZ Write up</title>
-      <link>/write-up/pwnable.kr/2021/05/05/2018-07-29-ctf-isitdtu2018-iz.html/</link>
-      <pubDate>Wed, 05 May 2021 12:59:51 +0000</pubDate>
-      
-      <guid>/write-up/pwnable.kr/2021/05/05/2018-07-29-ctf-isitdtu2018-iz.html/</guid>
-      <description>&lt;p&gt;이번 주말에 CTF 천국이었다.&lt;/p&gt;
-&lt;p&gt;무려 3개가 비슷한 시기에 있었다.&lt;/p&gt;
-&lt;p&gt;사실 &lt;code&gt;ISITDTU CTF&lt;/code&gt;는 대회 시간에 참여를 못했는데, &lt;code&gt;CODEBLUE CTF&lt;/code&gt; 문제를 보다보니 멘탈이 날아가서 이미 끝난 대회 문제를 다시 봤다.&lt;/p&gt;
-&lt;p&gt;멘탈을 치유하려고 출제됬던 웹 문제중에 가장 쉬워보이는 &lt;code&gt;IZ&lt;/code&gt; 문제를 선택해서 풀었는데 얘는 좀 다른 방향으로 멘탈이 나갔다. ㅎㅎ&lt;/p&gt;
-&lt;p&gt;알고나니 문제는 어렵지 않았는데, 다음에는 이러지 말자는 나름의 반성일기 겸 풀이를 작성했다.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>[MeePwn2018] OMEGASECTOR Write up</title>
       <link>/write-up/pwnable.kr/2021/05/05/2018-07-18-ctf-meepwn2018-omegasector.html/</link>
       <pubDate>Wed, 05 May 2021 12:59:51 +0000</pubDate>
@@ -63,6 +50,19 @@
       <guid>/write-up/pwnable.kr/2021/05/05/2018-05-27-ctf-rctf2018-rblog.html/</guid>
       <description>&lt;p&gt;&lt;code&gt;rblog&lt;/code&gt;는 &lt;code&gt;RCTF 2018&lt;/code&gt;에 출제되었던 XSS 문제인데, 대회 기간에는 풀이하지 못했다가 Write-up이 올라온 후 풀어보게 되었다.&lt;/p&gt;
 &lt;p&gt;문제 정보는 아래와 같다.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[ISITDTU 2018] IZ Write up</title>
+      <link>/write-up/pwnable.kr/2019/05/05/2018-07-29-ctf-isitdtu2018-iz.html/</link>
+      <pubDate>Sun, 05 May 2019 12:59:51 +0000</pubDate>
+      
+      <guid>/write-up/pwnable.kr/2019/05/05/2018-07-29-ctf-isitdtu2018-iz.html/</guid>
+      <description>&lt;p&gt;이번 주말에 CTF 천국이었다.&lt;/p&gt;
+&lt;p&gt;무려 3개가 비슷한 시기에 있었다.&lt;/p&gt;
+&lt;p&gt;사실 &lt;code&gt;ISITDTU CTF&lt;/code&gt;는 대회 시간에 참여를 못했는데, &lt;code&gt;CODEBLUE CTF&lt;/code&gt; 문제를 보다보니 멘탈이 날아가서 이미 끝난 대회 문제를 다시 봤다.&lt;/p&gt;
+&lt;p&gt;멘탈을 치유하려고 출제됬던 웹 문제중에 가장 쉬워보이는 &lt;code&gt;IZ&lt;/code&gt; 문제를 선택해서 풀었는데 얘는 좀 다른 방향으로 멘탈이 나갔다. ㅎㅎ&lt;/p&gt;
+&lt;p&gt;알고나니 문제는 어렵지 않았는데, 다음에는 이러지 말자는 나름의 반성일기 겸 풀이를 작성했다.&lt;/p&gt;</description>
     </item>
     
   </channel>
